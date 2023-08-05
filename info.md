@@ -1,0 +1,1 @@
+linkTobanck= mongodb+srv://jpaulo:090697@cluster0.urneoqr.mongodb.net/
